@@ -9,5 +9,5 @@ As we could perceive, the more times we repeat the experiment, the more reliable
 
 The formula for variance of sample mean is
 
-$$ Variance\\;of\\;the\\;sample\\;mean,\\;Var(\bar{X}) = \frac{Variance\\;of\\;the\\;polulation}{number of experiment} 
+$$ Variance\\;of\\;the\\;sample\\;mean,\\;Var(\bar{X}) = \frac{Variance\\;of\\;the\\;polulation}{number of experiment} $$
 
